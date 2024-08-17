@@ -1,5 +1,5 @@
 Fight Game, 2x2. 
 
-WASD + spacebar x Arrows + enter
+WAD + Spacebar (attack) x Arrows + Down Arrow (attack)
 
 https://jogodeluta-luiz.netlify.app
